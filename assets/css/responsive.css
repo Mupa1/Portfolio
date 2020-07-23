@@ -381,7 +381,8 @@
 	/* FOOTER
 	================================================== */
 	.site-footer .col-xs-12 {
-		text-align: center;
+		display: flex;
+		justify-content: center;
 	}
 }
 
