@@ -435,10 +435,7 @@ html, body {
     width: 100%;
     padding: 100px 0;
     position: relative;
-}
-
-.section-counters .row {
-    background-color: rgba(33,33,33,0);
+    background-color: #212121;
 }
 
 .section-counters:before {
@@ -462,6 +459,7 @@ html, body {
     color: #fff;
     margin: 0;
     line-height: 0.8;
+    background-color: rgba(33,33,33,0);
 }
 
 /* Section: Form*/
