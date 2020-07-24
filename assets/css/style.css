@@ -350,6 +350,7 @@ html, body {
 .portfolio-item {
     margin-bottom: 30px;
     position: relative;
+    background-color: #212121;
 }
 
 .section-portfolio .col-md-4:nth-last-child(-n+3) .portfolio-item {
