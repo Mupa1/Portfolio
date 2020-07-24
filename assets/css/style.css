@@ -381,6 +381,7 @@ html, body {
     top: 15px;
     left: 0px;
     z-index: 999;
+    background-color: rgba(33,33,33,0);
     opacity: 0;
     transition: opacity 0.25s ease-in-out, left 0.25s ease-in-out;
     -moz-transition: opacity 0.25s ease-in-out, left 0.25s ease-in-out;
