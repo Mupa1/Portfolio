@@ -393,6 +393,7 @@ html, body {
 .portfolio-item:hover .portfolio-item-info {
     left: 15px;
     opacity: 1;
+    background-color: rgba(33,33,33,0);
 }
 
 .portfolio-item-info h4 {
