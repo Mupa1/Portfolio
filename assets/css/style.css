@@ -437,6 +437,10 @@ html, body {
     position: relative;
 }
 
+.section-counters .row {
+    background-color: rgba(33,33,33,0);
+}
+
 .section-counters:before {
     content: '';
     position: absolute;
