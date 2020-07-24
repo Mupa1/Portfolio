@@ -459,6 +459,9 @@ html, body {
     color: #fff;
     margin: 0;
     line-height: 0.8;
+}
+
+.counter-info {
     background-color: rgba(33,33,33,0);
 }
 
