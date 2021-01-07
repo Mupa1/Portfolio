@@ -135,11 +135,9 @@ html, body {
     color: #212121;
 }
 
-.img-res-skills {
-    display: block;
-    max-width: 100%;
+.my-skills img {
     max-height: 150px;
-    margin: auto;
+    padding: 30px 10px;
 }
 
 .img-res {
@@ -304,7 +302,7 @@ html, body {
 
 .section-services:before {
     content: '';
-    background: url(../img/services-bg.jpg) no-repeat fixed center / cover;
+    background: url(../img/services2-bg.jpg) no-repeat fixed center / cover;
     width: 100%;
     height: 400px; 
     position: absolute;
