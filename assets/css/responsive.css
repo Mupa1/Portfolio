@@ -18,11 +18,6 @@
 	.hero img {
 		height: 500px;
 	}
-
-	/* Section: Skills */
-	.img-res-skills {
-    max-height: 110px;
-	}
 }
 
 /* Medium Devices, Desktops */
@@ -91,10 +86,6 @@
 
 	.skill h4 {
 		font-size: 22px;
-	}
-
-	.img-res-skills {
-    max-height: 90px;
 	}
 
 	/* Section: Services */
@@ -344,10 +335,6 @@
 	    margin-bottom: 10px;
 	}
 
-	.img-res-skills {
-    max-height: 100px;
-	}
-
 	/* Section: Services */
 	.section-services {
 		padding-top: 180px;
@@ -416,12 +403,21 @@
 		margin-bottom: 180px;
 	}
 
-	/* Section: Skills */
-	.img-res-skills {
-    max-width: 100%;
-    max-height: 80px;
+	/* Section: Service */
+	.seprators {
+		display: none;
 	}
 
+	/* Section: Skills */
+	.my-skills img {
+    max-height: 80px;
+    padding: 10px;
+	}
+
+	.portfolio-box {
+		padding-top: 10px;
+	}
+	
 	/* Section: Portfolio */
 	.section-portfolio .col-xs-6 {
 		width: 100%;
